@@ -37,7 +37,7 @@ python solver.py
 ```
 #### How to use the application
 
-User has to choice.
+User has two choices:
 
 1) Give path to input txt file containing initial locations of queens on board. Each line represents the row and number in the line shows the column the queens is placed.
 
@@ -46,7 +46,7 @@ User has to choice.
 
 
 ## Written by
-Dursun Dashdamirov
+Dursun Dashdamirov.
 CSDA master's student at GWU&ADA.
 
 
