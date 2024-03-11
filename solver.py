@@ -230,4 +230,4 @@ class NQueensCSP:
 # Instantiate the NQueensCSP class and invoke the solution method
 csp_solver_instance = NQueensCSP()
 csp_solver_instance.resolve_nqueens("pass")
-#csp_solver_instance.resolve_nqueens(r"C:\Users\Dursun\OneDrive - Baku Higher Oil School\Desktop\n-queen.txt")
+#csp_solver_instance.resolve_nqueens(r"path_to_file")
